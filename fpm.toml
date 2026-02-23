@@ -1,0 +1,17 @@
+name = "HeatSim"
+version = "0.1.0"
+license = "MIT"
+author = "Daniil Zakharov (Hlora1337)"
+maintainer = "ninomaehajime1337@outlook.com"
+copyright = "Copyright 2026, Hlora1337"
+
+[build]
+auto-executables = true
+auto-tests = false
+
+[fortran]
+implicit-typing = false
+implicit-external = false
+source-form = "free"
+
+

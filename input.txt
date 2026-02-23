@@ -1,0 +1,4 @@
+nx = 512
+ny = 512
+steps = 200
+center_temp = 100.0
